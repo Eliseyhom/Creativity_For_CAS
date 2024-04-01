@@ -1,3 +1,4 @@
+# @yelysei_khomenko
 squares = [' ']*9
 players = 'XO'
 board = '''
