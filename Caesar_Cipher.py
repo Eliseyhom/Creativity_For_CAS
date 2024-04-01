@@ -1,3 +1,4 @@
+# @yelysei_khomenko
 class main: 
     def __init__(self,key:dict) -> None:
         self.key = key
