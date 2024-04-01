@@ -1,7 +1,4 @@
-#Created By: Milad Khoshdel
-#Blog: https://regux.com
-#Email: miladkhoshdel@gmail.com
-#Telegram: @miladkhoshdel
+# @yelysei_khomenko
 
 import re
 
