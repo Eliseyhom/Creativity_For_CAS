@@ -1,3 +1,4 @@
+# @yelysei_khomenko
 from tkinter import *
 import random
 
