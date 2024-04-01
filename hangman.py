@@ -1,3 +1,4 @@
+# @yelysei_khomenko
 import random
 
 def hangman():
